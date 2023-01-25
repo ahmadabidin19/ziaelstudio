@@ -27,81 +27,2589 @@
       "link_redirect": "https://"
     }
   ],
-  "Categories": [
+"Categories": [
     {
       "id": 1,
-      "name_category": "Khalid Basalamah",
-      "image": "file:///android_asset/image/khalid.jpg"
+      "name_category": "DJ Malaysia",
+      "image": "file:///android_asset/image/5.jpg"
     },
     {
       "id": 2,
-      "name_category": "Hanan Attaki",
-      "image": "https://1.bp.blogspot.com/-HxYE662vYyY/XSKrn1Km7dI/AAAAAAACcPc/9lR7W3zPeW0P5Wk12D33pG6o81UkTOR8gCLcBGAs/s1600/Hanan%2BAttaki%2BUHA.jpg"
+      "name_category": "DJ Tembang Kenangan",
+      "image": "file:///android_asset/image/7.jpg"
     },
     {
       "id": 3,
-      "name_category": "Mr. Kim",
-      "image": "file:///android_asset/image/kim.jpeg"
+      "name_category": "DJ Deny Caknan",
+      "image": "file:///android_asset/image/6.jpg"
     },
     {
       "id": 4,
-      "name_category": "Ammi Nur Bait",
-      "image": "https://m.media-amazon.com/images/I/41sBIiTY2ZS._SL500_.jpg"
+      "name_category": "DJ Happy Asmara",
+      "image": "file:///android_asset/image/4.jpg"
     },
     {
-      "id": 4,
-      "name_category": "Adi Hidayat",
-      "image": "https://i0.wp.com/www.hops.id/wp-content/uploads/2021/06/ustadz-adi-hidayat-cov.jpg"
+      "id": 5,
+      "name_category": "DJ Barat",
+      "image": "file:///android_asset/image/3.jpg"
+    },
+    {
+      "id": 6,
+      "name_category": "DJ Campuran",
+      "image": "file:///android_asset/image/2.jpg"
+    },
+    {
+      "id": 7,
+      "name_category": "DJ Viral Terbaru",
+      "image": "file:///android_asset/image/22.png"
     }
   ],
   "Data": [
     {
       "id": 1,
-      "name_category": "Khalid Basalamah",
-      "title": "Paksakan Ibadah",
-      "image": "https://carapandang.com/assets/images/news/carapandang-30506.jpg",
-      "link_mp3": "https://aliendro.id/uploads/demo/mp3onoff/paksakan_ibadah.mp3",
-      "lyrics": "<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>\n<p style=\"text-align: center;\">Ku tak pantas berada dalam surga Mu</p>\n<p style=\"text-align: center;\">Namun tak kuasa bila ku masuk ke neraka Mu</p>\n<p style=\"text-align: center;\">Aku datang mengharap belas kasih dari Mu</p>\n<p style=\"text-align: center;\">Kepada siapa aku meminta selain pada Mu</p>\n<p style=\"text-align: center;\">ذُنُوْبيِ مِثْلُ أَعْدَادِ الرِّمَالِ</p>\n<p style=\"text-align: center;\">Dzunuubii mitslu a&rsquo;daadir rimaali</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً يَاذَا الْجَلاَلِ</p>\n<p style=\"text-align: center;\">fa hablii taubatan yaa dzaaljalaali</p>\n<p style=\"text-align: center;\">Engkau pengasih maha pengampun dosa &ndash; dosa</p>\n<p style=\"text-align: center;\">Beriku taubat atas segala kesalahanku</p>\n<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>" },
-    {
-      "id": 2,
-      "name_category": "Khalid Basalamah",
-      "title": "Dosa Membawa Keburukan",
-      "image": "file:///android_asset/image/khalid.jpg",
-      "link_mp3": "mp3/dosa_membawa_keburukan.ogg",
-      "lyrics": "<p style=\"text-align: center;\">Tombo ati iku limo perkarane</p>\n<p style=\"text-align: center;\">Kaping pisan moco Qur&rsquo;an lan maknane</p>\n<p style=\"text-align: center;\">Kaping pindo sholat wengi lakonono</p>\n<p style=\"text-align: center;\">Kaping telu wong kang sholeh kumpulono</p>\n<p style=\"text-align: center;\">Kaping papat kudu weteng ingkang luwe</p>\n<p style=\"text-align: center;\">Kaping limo dzikir wengi ingkang suwe</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">Salah sawijine sopo bisa ngelakoni</p>\n<p style=\"text-align: center;\">Mugi-mugi gusti Allah nyembadani</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">Obat hati ada lima perkaranya</p>\n<p style=\"text-align: center;\">Yang pertama baca Qur'an dan maknanya</p>\n<p style=\"text-align: center;\">Yang kedua sholat malam dirikanlah</p>\n<p style=\"text-align: center;\">Yang ketiga berkumpullah dengan orang sholeh</p>\n<p style=\"text-align: center;\">Yang keempat perbanyaklah berpuasa</p>\n<p style=\"text-align: center;\">Yang kelima dzikir malam perbanyaklah</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">Salahsatunya siapa bisa menjalani</p>\n<p style=\"text-align: center;\">Moga-moga Gusti Allah mencukupi</p>" },
-    {
-      "id": 3,
-      "name_category": "Hanan Attaki",
-      "title": "Lapang Dada",
-      "image": "https://1.bp.blogspot.com/-HxYE662vYyY/XSKrn1Km7dI/AAAAAAACcPc/9lR7W3zPeW0P5Wk12D33pG6o81UkTOR8gCLcBGAs/s1600/Hanan%2BAttaki%2BUHA.jpg",
-      "link_mp3": "https://aliendro.id/uploads/demo/mp3onoff/lapang_dada.mp3",
-      "lyrics": "<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>\n<p style=\"text-align: center;\">Ku tak pantas berada dalam surga Mu</p>\n<p style=\"text-align: center;\">Namun tak kuasa bila ku masuk ke neraka Mu</p>\n<p style=\"text-align: center;\">Aku datang mengharap belas kasih dari Mu</p>\n<p style=\"text-align: center;\">Kepada siapa aku meminta selain pada Mu</p>\n<p style=\"text-align: center;\">ذُنُوْبيِ مِثْلُ أَعْدَادِ الرِّمَالِ</p>\n<p style=\"text-align: center;\">Dzunuubii mitslu a&rsquo;daadir rimaali</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً يَاذَا الْجَلاَلِ</p>\n<p style=\"text-align: center;\">fa hablii taubatan yaa dzaaljalaali</p>\n<p style=\"text-align: center;\">Engkau pengasih maha pengampun dosa &ndash; dosa</p>\n<p style=\"text-align: center;\">Beriku taubat atas segala kesalahanku</p>\n<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>"
+      "name_category": "DJ Viral Terbaru",
+      "title": "DJ CLOSE YOUR EYES",
+      "image": "file:///android_asset/image/1.jpg",
+      "link_mp3": "mp3/DJ-CLOSE-YOUR-EYE-x-BANGUN-TIDUR-SELFIE-x-GO-SAMPE-BAWAH-VIRAL-TIK-TOK-TERBARU.mp3",
+      "lyrics": ""
     },
     {
+      "id": 2,
+      "name_category": "DJ Viral Terbaru",
+      "title": "DJ FULL SENYUM SAYANG",
+      "image": "file:///android_asset/image/1.jpg",
+      "link_mp3": "mp3/DJ-FULL-SENYUM-SAYANG-REMIX-VIRAL-TIKTOK-TERBARU-2022.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 3,
+      "name_category": "DJ Viral Terbaru",
+      "title": "DJ OJO DI BANDING BANDINGKE",
+      "image": "file:///android_asset/image/1.jpg",
+      "link_mp3": "mp3/DJ-POP-X-OJO-DIBANDINGKE-REMIX-VIRAL-TIKTOK-TERBARU-2022.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
       "id": 4,
-      "name_category": "Ammi Nur Bait",
-      "title": "Cambuk Untuk Kita Semua",
-      "image": "https://m.media-amazon.com/images/I/41sBIiTY2ZS._SL500_.jpg",
-      "link_mp3": "https://aliendro.id/uploads/demo/mp3onoff/cambuk.mp3",
-      "lyrics": "<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>\n<p style=\"text-align: center;\">Ku tak pantas berada dalam surga Mu</p>\n<p style=\"text-align: center;\">Namun tak kuasa bila ku masuk ke neraka Mu</p>\n<p style=\"text-align: center;\">Aku datang mengharap belas kasih dari Mu</p>\n<p style=\"text-align: center;\">Kepada siapa aku meminta selain pada Mu</p>\n<p style=\"text-align: center;\">ذُنُوْبيِ مِثْلُ أَعْدَادِ الرِّمَالِ</p>\n<p style=\"text-align: center;\">Dzunuubii mitslu a&rsquo;daadir rimaali</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً يَاذَا الْجَلاَلِ</p>\n<p style=\"text-align: center;\">fa hablii taubatan yaa dzaaljalaali</p>\n<p style=\"text-align: center;\">Engkau pengasih maha pengampun dosa &ndash; dosa</p>\n<p style=\"text-align: center;\">Beriku taubat atas segala kesalahanku</p>\n<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>"
+      "name_category": "DJ Viral Terbaru",
+      "title": "DJ JIKA KAU BERTEMU AKU BEGINI",
+      "image": "file:///android_asset/image/1.jpg",
+      "link_mp3": "mp3/DJ-JIKA-KAU-BERTEMU-AKU-BEGINI-TIKTOK-VIRAL-REMIX-FULL-BASS-2022.mp3",
+      "lyrics": ""
     }
   ,
     {
       "id": 5,
-      "name_category": "Adi Hidayat",
-      "title": "Selalu Tenang karena ada Allah",
-      "image": "https://i0.wp.com/www.hops.id/wp-content/uploads/2021/06/ustadz-adi-hidayat-cov.jpg",
-      "link_mp3": "https://aliendro.id/uploads/demo/mp3onoff/tenang.mp3",
-      "lyrics": "<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>\n<p style=\"text-align: center;\">Ku tak pantas berada dalam surga Mu</p>\n<p style=\"text-align: center;\">Namun tak kuasa bila ku masuk ke neraka Mu</p>\n<p style=\"text-align: center;\">Aku datang mengharap belas kasih dari Mu</p>\n<p style=\"text-align: center;\">Kepada siapa aku meminta selain pada Mu</p>\n<p style=\"text-align: center;\">ذُنُوْبيِ مِثْلُ أَعْدَادِ الرِّمَالِ</p>\n<p style=\"text-align: center;\">Dzunuubii mitslu a&rsquo;daadir rimaali</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً يَاذَا الْجَلاَلِ</p>\n<p style=\"text-align: center;\">fa hablii taubatan yaa dzaaljalaali</p>\n<p style=\"text-align: center;\">Engkau pengasih maha pengampun dosa &ndash; dosa</p>\n<p style=\"text-align: center;\">Beriku taubat atas segala kesalahanku</p>\n<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>"
+      "name_category": "DJ Viral Terbaru",
+      "title": "DJ YO NDAK MAMPU AKU DUDU SPEK IDAMANMU",
+      "image": "file:///android_asset/image/1.jpg",
+      "link_mp3": "mp3/DJ-YO-NDAK-MAMPU-AK-DUDU-SPEK-IDAMANMU-REMIX-VIRAL-TIKTOK.mp3",
+      "lyrics": ""
     }
   ,
     {
       "id": 6,
-      "name_category": "Mr. Kim",
-      "title": "Source Code Mp3 Player",
-      "image": "file:///android_asset/image/kim.jpeg",
-      "link_mp3": "mp3/kim.ogg",
-      "lyrics": "<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>\n<p style=\"text-align: center;\">Ku tak pantas berada dalam surga Mu</p>\n<p style=\"text-align: center;\">Namun tak kuasa bila ku masuk ke neraka Mu</p>\n<p style=\"text-align: center;\">Aku datang mengharap belas kasih dari Mu</p>\n<p style=\"text-align: center;\">Kepada siapa aku meminta selain pada Mu</p>\n<p style=\"text-align: center;\">ذُنُوْبيِ مِثْلُ أَعْدَادِ الرِّمَالِ</p>\n<p style=\"text-align: center;\">Dzunuubii mitslu a&rsquo;daadir rimaali</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً يَاذَا الْجَلاَلِ</p>\n<p style=\"text-align: center;\">fa hablii taubatan yaa dzaaljalaali</p>\n<p style=\"text-align: center;\">Engkau pengasih maha pengampun dosa &ndash; dosa</p>\n<p style=\"text-align: center;\">Beriku taubat atas segala kesalahanku</p>\n<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>"
+      "name_category": "DJ Viral Terbaru",
+      "title": "DJ GORENG-GORENG",
+      "image": "file:///android_asset/image/1.jpg",
+      "link_mp3": "mp3/DJ-GORENG-GORENG-X-CAMPURAN-SLOW-BEAT-DJ-FYP-TIKTOK-VIRAL-2022.mp3",
+      "lyrics": ""
     }
+  ,
+    {
+      "id": 7,
+      "name_category": "DJ Viral Terbaru",
+      "title": "DJ ANGELA BABY",
+      "image": "file:///android_asset/image/1.jpg",
+      "link_mp3": "mp3/DJ_ANGELA_BABY.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 8,
+      "name_category": "DJ Viral Terbaru",
+      "title": "DJ RAK BAKAL TAK BALENI VIRAL",
+      "image": "file:///android_asset/image/1.jpg",
+      "link_mp3": "mp3/DJ-RA-BAKAL-TAK-BALENI.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 9,
+      "name_category": "DJ Viral Terbaru",
+      "title": "DJ AKU BUKAN JODOHNYA",
+      "image": "file:///android_asset/image/1.jpg",
+      "link_mp3": "mp3/DJ-AKU-BUKAN-JODOHNYA-TRI-SUAKA-KUTITIPKAN-DIA-REMIX-VIRAL.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 10,
+      "name_category": "DJ Viral Terbaru",
+      "title": "DJ ANGKLUNG SATRU 2",
+      "image": "file:///android_asset/image/1.jpg",
+      "link_mp3": "mp3/DJ-Angklung-santuy-SATRU-2-Deny-caknan.mp3",
+      "lyrics": ""
+    }
+  ,
+
+    {
+      "id": 11,
+      "name_category": "DJ Viral Terbaru",
+      "title": "DJ BERLAYAR TAK BERTEPIAN",
+      "image": "file:///android_asset/image/1.jpg",
+      "link_mp3": "mp3/DJ_BERLAYAR_TAK_BERTEPIAN.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 12,
+      "name_category": "DJ Viral Terbaru",
+      "title": "DJ BILA KAMU TAK LAGI DENGANKU",
+      "image": "file:///android_asset/image/1.jpg",
+      "link_mp3": "mp3/DJ_BILA_KAMU_TAK_LAGI_DENGANKU.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 13,
+      "name_category": "DJ Viral Terbaru",
+      "title": "DJ BUIH JADI PERMADANI",
+      "image": "file:///android_asset/image/1.jpg",
+      "link_mp3": "mp3/DJ_BUIH_JADI_PERMADANI.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 14,
+      "name_category": "DJ Viral Terbaru",
+      "title": "DJ CAMPURAN",
+      "image": "file:///android_asset/image/1.jpg",
+      "link_mp3": "mp3/DJ_CAMPURAN.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 15,
+      "name_category": "DJ Viral Terbaru",
+      "title": "DJ CINTA SAMPAI MATI 2",
+      "image": "file:///android_asset/image/1.jpg",
+      "link_mp3": "mp3/DJ_CINTA_SAMPAI_MATI_2.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 16,
+      "name_category": "DJ Viral Terbaru",
+      "title": "DJ CINTAMU SENYAMAN MENTARI PAGI",
+      "image": "file:///android_asset/image/1.jpg",
+      "link_mp3": "mp3/DJ_CINTAMU_SENYAMAN_MENTARI_PAGI.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 17,
+      "name_category": "DJ Viral Terbaru",
+      "title": "DJ COME ONE MAKE FEEL ALIVE",
+      "image": "file:///android_asset/image/1.jpg",
+      "link_mp3": "mp3/DJ_COME_ONE_MAKE_FEEL_ALIVE.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 18,
+      "name_category": "DJ Viral Terbaru",
+      "title": "DJ CUMAN TEMAN X AKIMILAKU",
+      "image": "file:///android_asset/image/1.jpg",
+      "link_mp3": "mp3/DJ_CUMAN_TEMAN_X_AKIMILAKU.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 19,
+      "name_category": "DJ Viral Terbaru",
+      "title": "DJ DALAM SEPIKU KAULAH CANDAKU",
+      "image": "file:///android_asset/image/1.jpg",
+      "link_mp3": "mp3/DJ_DALAM_SEPIKU_KAULAH_CANDAKU.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 20,
+      "name_category": "DJ Viral Terbaru",
+      "title": "DJ DAN JIKA HATI SUDAH TAK CINTA",
+      "image": "file:///android_asset/image/1.jpg",
+      "link_mp3": "mp3/DJ_DAN_JIKA_HATI_SUDAH_TAK_CINTA.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 21,
+      "name_category": "DJ Viral Terbaru",
+      "title": "DJ DEAR DIARY",
+      "image": "file:///android_asset/image/1.jpg",
+      "link_mp3": "mp3/DJ_DEAR_DIARY.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 22,
+      "name_category": "DJ Viral Terbaru",
+      "title": "DJ DOTA ROCARDO",
+      "image": "file:///android_asset/image/1.jpg",
+      "link_mp3": "mp3/DJ_DOTA_ROCARDO.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 23,
+      "name_category": "DJ Viral Terbaru",
+      "title": "DJ GO SAMPE BAWAH",
+      "image": "file:///android_asset/image/1.jpg",
+      "link_mp3": "mp3/DJ_GO_SAMPE_BAWAH.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 24,
+      "name_category": "DJ Viral Terbaru",
+      "title": "DJ HANYA SATU PERSINGGAHAN",
+      "image": "file:///android_asset/image/1.jpg",
+      "link_mp3": "mp3/DJ_HANYA_SATU_PERSINGGAHAN.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 25,
+      "name_category": "DJ Viral Terbaru",
+      "title": "DJ JOKO TINGKIR NGOMBE DAWET",
+      "image": "file:///android_asset/image/1.jpg",
+      "link_mp3": "mp3/DJ_JOKO_TINGKIR_NGOMBE_DAWET.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 26,
+      "name_category": "DJ Viral Terbaru",
+      "title": "DJ KAKA YANG BAJU HITAM X BENTO",
+      "image": "file:///android_asset/image/1.jpg",
+      "link_mp3": "mp3/DJ_KAKA_YANG_BAJU_HITAM_X_BENTO.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 27,
+      "name_category": "DJ Viral Terbaru",
+      "title": "DJ KANEE IN AJAA YAKAN",
+      "image": "file:///android_asset/image/1.jpg",
+      "link_mp3": "mp3/DJ_KANEE_IN_AJAA_YAKAN.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 28,
+      "name_category": "DJ Viral Terbaru",
+      "title": "DJ KKN DESA PENARI",
+      "image": "file:///android_asset/image/1.jpg",
+      "link_mp3": "mp3/DJ_KKN_DESA_PENARI.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 29,
+      "name_category": "DJ Viral Terbaru",
+      "title": "DJ LDR KERAS BOS",
+      "image": "file:///android_asset/image/1.jpg",
+      "link_mp3": "mp3/DJ_LDR_KERAS_BOS.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 30,
+      "name_category": "DJ Viral Terbaru",
+      "title": "DJ LINTING DAUN",
+      "image": "file:///android_asset/image/1.jpg",
+      "link_mp3": "mp3/DJ_LINTING_DAUN.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 31,
+      "name_category": "DJ Viral Terbaru",
+      "title": "DJ LOVE TONIGHT",
+      "image": "file:///android_asset/image/1.jpg",
+      "link_mp3": "mp3/DJ_LOVE_TONIGHT.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 32,
+      "name_category": "DJ Viral Terbaru",
+      "title": "DJ MAAFKAN AKU",
+      "image": "file:///android_asset/image/1.jpg",
+      "link_mp3": "mp3/DJ_MAAFKAN_AKU.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 33,
+      "name_category": "DJ Viral Terbaru",
+      "title": "DJ MALAM INI",
+      "image": "file:///android_asset/image/1.jpg",
+      "link_mp3": "mp3/DJ_MALAM_INI.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 34,
+      "name_category": "DJ Viral Terbaru",
+      "title": "DJ MENIMISU",
+      "image": "file:///android_asset/image/1.jpg",
+      "link_mp3": "mp3/DJ_MENIMISU.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 35,
+      "name_category": "DJ Viral Terbaru",
+      "title": "DJ REMIX JEDAG JEDUG",
+      "image": "file:///android_asset/image/1.jpg",
+      "link_mp3": "mp3/DJ_REMIX_JEDAG_JEDUG.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 36,
+      "name_category": "DJ Viral Terbaru",
+      "title": "DJ RIP LOVE X CEST LA VIE",
+      "image": "file:///android_asset/image/1.jpg",
+      "link_mp3": "mp3/DJ_RIP_LOVE_X_CEST_LA_VIE.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 37,
+      "name_category": "DJ Viral Terbaru",
+      "title": "DJ SIKOK BAGI DUO",
+      "image": "file:///android_asset/image/1.jpg",
+      "link_mp3": "mp3/DJ_SIKOK_BAGI_DUO.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 38,
+      "name_category": "DJ Viral Terbaru",
+      "title": "DJ TAKKAN TERGANTI",
+      "image": "file:///android_asset/image/1.jpg",
+      "link_mp3": "mp3/DJ_TAKKAN_TERGANTI.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 39,
+      "name_category": "DJ Viral Terbaru",
+      "title": "DJ TIARA",
+      "image": "file:///android_asset/image/1.jpg",
+      "link_mp3": "mp3/DJ_TIARA.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 40,
+      "name_category": "DJ Viral Terbaru",
+      "title": "DJ YA CUMA KAMU",
+      "image": "file:///android_asset/image/1.jpg",
+      "link_mp3": "mp3/DJ_YA_CUMA_KAMU.mp3",
+      "lyrics": ""
+    }
+    ,
+    {
+      "id": 1,
+      "name_category": "DJ Campuran",
+      "title": "DJ AKU SEKUAT HATI BERTAHAN",
+      "image": "file:///android_asset/image/2.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1QVXtjj7JZoRHxGoAovdaQoov7rIBYQ4r",
+      "lyrics": ""
+    },
+    {
+      "id": 2,
+      "name_category": "DJ Campuran",
+      "title": "DJ AKU SUKA BODI GOYANG MAMA MUDA X CEPAK CEPAK JEDER",
+      "image": "file:///android_asset/image/2.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1AzinYJoQVcMJF7OMzyOK29ofMHTD7ka4",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 3,
+      "name_category": "DJ Campuran",
+      "title": "DJ AMELIA X PAK CEPAK CEPAK JEDER",
+      "image": "file:///android_asset/image/2.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1fWKO66KLLw_uupdM_mTIsHOn1fiLGa79",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 4,
+      "name_category": "DJ Campuran",
+      "title": "DJ ANGIN DATANG KASIH KABAR",
+      "image": "file:///android_asset/image/2.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1zaynuJsat6rssUbyK2nK2kTwOTOGvp9O",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 5,
+      "name_category": "DJ Campuran",
+      "title": "DJ ARE YOU OKE YOU CAN PLAB PLAB DANCE",
+      "image": "file:///android_asset/image/2.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=19d3KybtbpMqW-fxniie8j2GxMfQyls9r",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 6,
+      "name_category": "DJ Campuran",
+      "title": "DJ ASTRONOUT IN THE OCEAN X CI CI CIMOY CIMOY",
+      "image": "file:///android_asset/image/2.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1WfJqgdOE_c3QIl3MjMG543en0Wl2xxro",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 7,
+      "name_category": "DJ Campuran",
+      "title": "DJ BAHAGIA (SETIAP YANG KULAKUKAN UNTUK DIRIMU)",
+      "image": "file:///android_asset/image/2.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1KZR4VnvrBxBYRVIYuJlGe7Ri-tyhy7yN",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 8,
+      "name_category": "DJ Campuran",
+      "title": "DJ BEGGIN MANESKIN GRATATATA",
+      "image": "file:///android_asset/image/2.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1nfKYx-NCxUxbflahoc7WZglIWfRIye5g",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 9,
+      "name_category": "DJ Campuran",
+      "title": "DJ BILA DIA MENYUKAIKU X BABY FAMILY FRENDLY",
+      "image": "file:///android_asset/image/2.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1rNZmySDNY2Rd_EJsnccw_aIn2lob1HcS",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 10,
+      "name_category": "DJ Campuran",
+      "title": "DJ BOKA DANCE X LOKA LOKA",
+      "image": "file:///android_asset/image/2.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1nnPPspPBGhJhCRiTczGPNSwX4IXRngy6",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 11,
+      "name_category": "DJ Campuran",
+      "title": "DJ BONBON REMIX",
+      "image": "file:///android_asset/image/2.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1kxCGCm4nLgJ4LbuHBxXvMEefmZZZa4lF",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 12,
+      "name_category": "DJ Campuran",
+      "title": "DJ BOOMA BOOMA YEE",
+      "image": "file:///android_asset/image/2.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1gJk-MHncbQb0uA_Q4PrCFPLQGicz9hCO",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 13,
+      "name_category": "DJ Campuran",
+      "title": "DJ BUIH JADI PERMADANI",
+      "image": "file:///android_asset/image/2.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1KR_fAINA7sIdvtmvEC-K7DfC4vtCA51w",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 14,
+      "name_category": "DJ Campuran",
+      "title": "DJ CHICA LOCA REMIX",
+      "image": "file:///android_asset/image/2.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1jk7xjwISqwAItrxfMCM8g0jOmKX3r-g0",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 15,
+      "name_category": "DJ Campuran",
+      "title": "DJ CLOUD BREAD TIKTOK",
+      "image": "file:///android_asset/image/2.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=180Q1LODq7cOboKMIZbcnKaiC7x9N8Bvs",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 16,
+      "name_category": "DJ Campuran",
+      "title": "DJ DAHSYATNYA CINTA REMIX",
+      "image": "file:///android_asset/image/2.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1yVz8kg82gfSx1oR-_nURv_B7Midm-3Ba",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 17,
+      "name_category": "DJ Campuran",
+      "title": "DJ DAMOND IN THE SKY",
+      "image": "file:///android_asset/image/2.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1UziZ4XtyLkNHzG0QTnvOPL7gwafRWLg8",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 18,
+      "name_category": "DJ Campuran",
+      "title": "DJ DAPA MALARIA",
+      "image": "file:///android_asset/image/2.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1l8ehwrBk1kW3BRFuWu22WsokJyir0qZo",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 19,
+      "name_category": "DJ Campuran",
+      "title": "DJ DIAM TANPA KATA",
+      "image": "file:///android_asset/image/2.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1xVAdNG3oClnFDBFZR4NCZQsbi8x4vydQ",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 20,
+      "name_category": "DJ Campuran",
+      "title": "DJ DINDA JANGAN MARAH MARAH",
+      "image": "file:///android_asset/image/2.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1AlmVdW037UjXQpAAnTu59InsL34oTlgk",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 21,
+      "name_category": "DJ Campuran",
+      "title": "DJ GOYANG PARGOY X PAK CEPAK",
+      "image": "file:///android_asset/image/2.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1ssFMFeqKrwfs9YUmnPFxtLf6xwv7_t8t",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 22,
+      "name_category": "DJ Campuran",
+      "title": "DJ GRATATA TATA",
+      "image": "file:///android_asset/image/2.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1QCBgLsGCPelbzR1_bkl1LvKTyYM5FFZB",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 23,
+      "name_category": "DJ Campuran",
+      "title": "DJ HUJAN BADAI ANGIN RIBUT",
+      "image": "file:///android_asset/image/2.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1y8UBub7x53lIqE2AIc_3kxDQmee28KXz",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 24,
+      "name_category": "DJ Campuran",
+      "title": "DJ I LOVE MAMA MANTU",
+      "image": "file:///android_asset/image/2.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1Oepls0a_nLufyHi2pUT0ii0ORxVKmj7P",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 25,
+      "name_category": "DJ Campuran",
+      "title": "DJ LUCID DREAM X HUJAN BADAI ANGIN RIBUT",
+      "image": "file:///android_asset/image/2.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=19CPvmit60PhKrNxaUcOUCmHiLN6XIoOC",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 26,
+      "name_category": "DJ Campuran",
+      "title": "DJ MACARENA",
+      "image": "file:///android_asset/image/2.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1dhOshJuTnlepyd9Z5G3nk4XMyAtE3il5",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 27,
+      "name_category": "DJ Campuran",
+      "title": "DJ MBON MBON REMIX TIKTOK",
+      "image": "file:///android_asset/image/2.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1YwPhyTMY0970AO1bCD0esroYkcXoZckf",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 28,
+      "name_category": "DJ Campuran",
+      "title": "DJ MONEY LISA X PARGOY",
+      "image": "file:///android_asset/image/2.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1cywKCHWb0IMur55vz_PJx9vxSUDWgf6N",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 29,
+      "name_category": "DJ Campuran",
+      "title": "DJ MONEY X SALTING REMIX",
+      "image": "file:///android_asset/image/2.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1Xx4yezUSgg4WYscjg6sGGAVMnXoTE54i",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 30,
+      "name_category": "DJ Campuran",
+      "title": "DJ NAINOWALE NE INDIA",
+      "image": "file:///android_asset/image/2.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1AROpEUQFPdeFbzKAN9NkoY9-UgiFOV1_",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 31,
+      "name_category": "DJ Campuran",
+      "title": "DJ PAK CEPAK CEPAK JEDER X BOKA BOKA GAMELAN",
+      "image": "file:///android_asset/image/2.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1ALEKjYg6IyjIe45Uhf2xm9sJm0wiown5",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 32,
+      "name_category": "DJ Campuran",
+      "title": "DJ PAK PONG PONG VONG TRUNG BAU",
+      "image": "file:///android_asset/image/2.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1ewOD5gYZaHfzoTJWIIErivgsqn02i7cS",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 33,
+      "name_category": "DJ Campuran",
+      "title": "DJ POTA POTA",
+      "image": "file:///android_asset/image/2.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1_LPygAmeR_ztPU4oIDH1VTQBySNm_Ph0",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 34,
+      "name_category": "DJ Campuran",
+      "title": "DJ SATRU X TULUNG PERCOYO AKU",
+      "image": "file:///android_asset/image/2.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1oBs_fKWTR9U1pWt7-bI3f4vhxd0HrsAV",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 35,
+      "name_category": "DJ Campuran",
+      "title": "DJ STEREO LOVE X SAKIT SEKALI EVERYBODY X SULING DAMON",
+      "image": "file:///android_asset/image/2.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1qNsv6KPcx-05HN4fKl9W8p4Pl9uY6Y2s",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 36,
+      "name_category": "DJ Campuran",
+      "title": "DJ TUTU SLOW TIKTOK",
+      "image": "file:///android_asset/image/2.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1aBaV3c4yOMq4vDVuqUsCRcx5u5W25-g7",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 37,
+      "name_category": "DJ Campuran",
+      "title": "DJ WOLFGANG REBORN REMIX",
+      "image": "file:///android_asset/image/2.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1dYpynAKAVjjgOHi7s0BezMRYWruJs8_l",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 38,
+      "name_category": "DJ Campuran",
+      "title": "DJ YANG MANIS TAPI BUKAN GULA",
+      "image": "file:///android_asset/image/2.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1wvMqfTyiLHO68IsLwquyt24ocUBQX9WC",
+      "lyrics": ""
+    },
+    {
+      "id": 1,
+      "name_category": "DJ Barat",
+      "title": "All NIGHT NO SLEEP DJ REMIX",
+      "image": "file:///android_asset/image/3.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1HJTfn7Pu53KL0owri70Xkf-Ntk3YDLmQ",
+      "lyrics": ""
+    },
+    {
+      "id": 2,
+      "name_category": "DJ Barat",
+      "title": "ANGEL BABY DJ REMIX",
+      "image": "file:///android_asset/image/3.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1QNTZ5w6sTkrs-Khbj_BPe0iKXPSbT3-E",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 3,
+      "name_category": "DJ Barat",
+      "title": "BABY FAMILY FRIENDLY (CLEAN_BANDIT)",
+      "image": "file:///android_asset/image/3.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1Zctk-dAEfZqL4vUXjlU36vQtg0YOqh2g",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 4,
+      "name_category": "DJ Barat",
+      "title": "BBHM RIHANA DJ REMIX",
+      "image": "file:///android_asset/image/3.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=10yOYhY2JjdYZLIdmijRei2UpN0KvZbDy",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 5,
+      "name_category": "DJ Barat",
+      "title": "BE ALRIGHT SLOW DJ REMIX",
+      "image": "file:///android_asset/image/3.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1CpcMFkooezxZKgkFXsZ1AxNf9AXqbtaf",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 6,
+      "name_category": "DJ Barat",
+      "title": "BEFORE I KNEW IT DJ REMIX",
+      "image": "file:///android_asset/image/3.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1NYEchi-FO0OlAGbRSimZNG5h7ls2jQGo",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 7,
+      "name_category": "DJ Barat",
+      "title": "BOKA DANCE DJ REMIX",
+      "image": "file:///android_asset/image/3.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=188W2oyfioMLeD2gg4JHv9T--ttjd6znw",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 8,
+      "name_category": "DJ Barat",
+      "title": "BOMBASTIC MR LOBA LOBA DJ REMIX",
+      "image": "file:///android_asset/image/3.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1QcWNtJw75ainaVvHc8xWvBaE3dTRGJv2",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 9,
+      "name_category": "DJ Barat",
+      "title": "BUILD A BEACH DJ REMIX",
+      "image": "file:///android_asset/image/3.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1lJVgioYa1wnev3LIfDW5HfCAGBRmshAc",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 10,
+      "name_category": "DJ Barat",
+      "title": "CHICA LOCA DJ REMIX",
+      "image": "file:///android_asset/image/3.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1qp9kTgo8tfxLRcFyrJVqEXCB0K26Dq3e",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 11,
+      "name_category": "DJ Barat",
+      "title": "CLOUD BREAD DJ REMIX",
+      "image": "file:///android_asset/image/3.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1PmQ8dHWj0QJ9-DxNicoPDS3_6juSw_wX",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 12,
+      "name_category": "DJ Barat",
+      "title": "COME ON MAKE ME FEEL ALIVE X DOTA DJ REMIX",
+      "image": "file:///android_asset/image/3.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1NXJjvmFYV692ydr06WY2n99r3yLJDFNi",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 13,
+      "name_category": "DJ Barat",
+      "title": "DANZA KUDURO DJ REMIX",
+      "image": "file:///android_asset/image/3.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1ksB70w9zQxRmNRmDAfKQCuHjndiRY_vy",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 14,
+      "name_category": "DJ Barat",
+      "title": "DARARI TREASURE DJ REMIX",
+      "image": "file:///android_asset/image/3.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1DeZcSHEgCc5UA1XBGsbMYAu4SyguETaC",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 15,
+      "name_category": "DJ Barat",
+      "title": "DEVIL INSIDE ME DJ REMIX",
+      "image": "file:///android_asset/image/3.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1Y00D7J9MGYJ_bxcA7BMOGY4lajnxdGBh",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 16,
+      "name_category": "DJ Barat",
+      "title": "EL PERDON X AMOR PROBIDO X SI KEPET KEPET DJ REMIX",
+      "image": "file:///android_asset/image/3.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1hTsBiYscOmOtSrwpOnNlesVrQxTyZZwy",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 17,
+      "name_category": "DJ Barat",
+      "title": "GHOST DJ REMIX",
+      "image": "file:///android_asset/image/3.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1CdE7P8S-MX-xRiGr8RmpofsUaEu3h2hH",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 18,
+      "name_category": "DJ Barat",
+      "title": "GODZILLA DJ REMIX",
+      "image": "file:///android_asset/image/3.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1qUA9AlXnb72Xuy2coY9vBaA1dQEzoOGv",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 19,
+      "name_category": "DJ Barat",
+      "title": "HAPPIER SLOW (I HOPE YOU`RE HAPPY) DJ REMIX",
+      "image": "file:///android_asset/image/3.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1IVc_CJpltzQl8UbjF0j6ghQIhXONsZzt",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 20,
+      "name_category": "DJ Barat",
+      "title": "I LOSE MYSELF TONIGHT DJ REMIX",
+      "image": "file:///android_asset/image/3.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1LyFeCIrEF8uYvczswvpf8JHwPP2tX7Pg",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 21,
+      "name_category": "DJ Barat",
+      "title": "I NEED A DOCTOR DJ REMIX",
+      "image": "file:///android_asset/image/3.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1laXdi1ZBh8-6StYeDtFUgRDWRs3JbC9E",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 22,
+      "name_category": "DJ Barat",
+      "title": "I WANNA FEEL LIKE DJ REMIX",
+      "image": "file:///android_asset/image/3.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1gN-mCVnQU-FDb6SIn4aUVtgd8cp9TRiE",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 23,
+      "name_category": "DJ Barat",
+      "title": "IN DA GHETTO DJ REMIX",
+      "image": "file:///android_asset/image/3.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1t-lXnvaTJNyf-XtMLjl6Vi-THx4EkjS1",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 24,
+      "name_category": "DJ Barat",
+      "title": "IT`S ONLY ME DJ REMIX",
+      "image": "file:///android_asset/image/3.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1SH-49Axqwz7vuTeh8_LJJtLLUgTDXFKh",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 25,
+      "name_category": "DJ Barat",
+      "title": "JUST LIKE THE DAY DJ REMIX",
+      "image": "file:///android_asset/image/3.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1UVJWUqPO95B6RFDkKu0W9ETPUCGBMVo1",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 26,
+      "name_category": "DJ Barat",
+      "title": "KATY PERRY ROAR DJ REMIX",
+      "image": "file:///android_asset/image/3.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1-trVPDBOMR9j1uVuo7kXmlR7FoHYUDA_",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 27,
+      "name_category": "DJ Barat",
+      "title": "KNOW ME TOO WELL DJ REMIX",
+      "image": "file:///android_asset/image/3.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1Pm9Be4IGTnTLkkRh3etbSR3Q3Ad_O9Bu",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 28,
+      "name_category": "DJ Barat",
+      "title": "LELOLAY X BALE BALE X JUST LIKE THE DAY DJ REMIX",
+      "image": "file:///android_asset/image/3.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1CbUjJOFdFmUSKtO0jpnhPmtCQNqvPX2w",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 29,
+      "name_category": "DJ Barat",
+      "title": "LILY ALAN WALKER DJ REMIX",
+      "image": "file:///android_asset/image/3.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=12OB7cNIpwggZL8h-4RlPaiiWsvLsGyPo",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 30,
+      "name_category": "DJ Barat",
+      "title": "LOVE TONIGHT ENGKOL DJ REMIX",
+      "image": "file:///android_asset/image/3.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=10uCekWxKPD-xltTAzTPvQCcQmRopFl_D",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 31,
+      "name_category": "DJ Barat",
+      "title": "LUCID DREAM DJ REMIX",
+      "image": "file:///android_asset/image/3.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1DB8KAyVcVWSUsm059OrnJmfadzUMXuXz",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 32,
+      "name_category": "DJ Barat",
+      "title": "MACARENA_DJ_REMIX",
+      "image": "file:///android_asset/image/3.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1AYk9go-CZddRTuNsZDHuxmd2Y0KLoQH2",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 33,
+      "name_category": "DJ Barat",
+      "title": "MIRACLES X C`EST LA VIE DJ REMIX",
+      "image": "file:///android_asset/image/3.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1XxzkZDBbyNrl_hg7E2oVJzfEa8rzncRd",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 34,
+      "name_category": "DJ Barat",
+      "title": "MOVE YOUR BODY DJ REMIX",
+      "image": "file:///android_asset/image/3.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1x6pXWIGJSBMLsvpQ0BAnawDzWSEmJYem",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 35,
+      "name_category": "DJ Barat",
+      "title": "MOVE YOUR BODY X PALE PALE DJ REMIX",
+      "image": "file:///android_asset/image/3.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1bKsoLY1sQ3E40vn2l9sggS7nJsoTfVTW",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 36,
+      "name_category": "DJ Barat",
+      "title": "PAPEPAP SORIA MADELE DJ REMIX",
+      "image": "file:///android_asset/image/3.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1fUo-jb0A1_0Ble6y9Ujogv8c0Ux5nKYV",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 37,
+      "name_category": "DJ Barat",
+      "title": "PARGOY X I FOLLOW YOU APOLLO X MASHUP DJ REMIX",
+      "image": "file:///android_asset/image/3.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1pyBfvUHTUmmr7OmrxXqCUiUnMRkP_f6o",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 38,
+      "name_category": "DJ Barat",
+      "title": "PLAY FOR ME DJ REMIX",
+      "image": "file:///android_asset/image/3.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1VUf1_dclH58f6FEHJomP94URmv1K0Px3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 39,
+      "name_category": "DJ Barat",
+      "title": "POLAROID LOVE ENHYPEN DJ REMIX",
+      "image": "file:///android_asset/image/3.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1B0blODI3Yjbv3HodiC-g2ZW6soLQKpy1",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 40,
+      "name_category": "DJ Barat",
+      "title": "PREMINIM DASH UCIHA DJ REMIX",
+      "image": "file:///android_asset/image/3.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1Pfs8TEZcStu1JasI1hX6CBW3Q0p-VAeX",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 41,
+      "name_category": "DJ Barat",
+      "title": "PSYCHO X TIBAN TIBAN DJ REMIX",
+      "image": "file:///android_asset/image/3.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1D7FSpxqRMd3YSpOMkWZw-hSfpjFQyShc",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 42,
+      "name_category": "DJ Barat",
+      "title": "RAATAN LAMBIYAN DJ REMIX",
+      "image": "file:///android_asset/image/3.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=12tJsC74cGMxbZSPVa6ZVsCYgkeF8Rwm5",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 43,
+      "name_category": "DJ Barat",
+      "title": "RECKLESS JEDAG JEDUG DJ REMIX",
+      "image": "file:///android_asset/image/3.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1n30pdNBUqR2li0xCX82-BQ-le6Nn_X90",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 44,
+      "name_category": "DJ Barat",
+      "title": "RIP LOVE FAOUZIA DJ REMIX",
+      "image": "file:///android_asset/image/3.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1lRqCgLy3jSOB9FSc0o4_APRGUBLSgh4S",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 45,
+      "name_category": "DJ Barat",
+      "title": "SET FIRE TO THE RAIN DJ REMIX",
+      "image": "file:///android_asset/image/3.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1qEJ9RNWzznI6lmWGLSixNj_EasFZ6vZy",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 46,
+      "name_category": "DJ Barat",
+      "title": "SHAUN THE SHEEP DJ REMIX",
+      "image": "file:///android_asset/image/3.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1edLHz6PVMcafL3QpfRinrsqUSk4acWUn",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 47,
+      "name_category": "DJ Barat",
+      "title": "SOLIE FAOUZIA DJ REMIX",
+      "image": "file:///android_asset/image/3.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1M5qixuKrLtr83WACJJ0QbiQURP8b2bLy",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 48,
+      "name_category": "DJ Barat",
+      "title": "SPIRIT LEAD ME DJ REMIX",
+      "image": "file:///android_asset/image/3.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1oS6PkDXKt-9lNmxOownKhcsT069cpTjc",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 49,
+      "name_category": "DJ Barat",
+      "title": "TE MOLLA X TAKE AWAY DJ REMIX",
+      "image": "file:///android_asset/image/3.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1jb5zQ-3omP4GqCQZIZHet100ANp2nI3R",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 50,
+      "name_category": "DJ Barat",
+      "title": "TEENAGE MONALISA DJ REMIX",
+      "image": "file:///android_asset/image/3.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1WsQL4uShHORyokwKcHtIn01oWwUgCZ0X",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 51,
+      "name_category": "DJ Barat",
+      "title": "UMBRELLA RIHANNA DJ REMIX",
+      "image": "file:///android_asset/image/3.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1rWgd9VWY1uLdUtYOwKItIe3VBR1uTeaZ",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 52,
+      "name_category": "DJ Barat",
+      "title": "WONDERLAND DJ REMIX",
+      "image": "file:///android_asset/image/3.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1njFYf7YcrFD8cPDH3rv0t6L7iYRndJwB",
+      "lyrics": ""
+    },
+    {
+      "id": 1,
+      "name_category": "DJ Happy Asmara",
+      "title": "ALASAN APA",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1SFefLGunXlBVbtnRsycX6MeQRIfXu93C",
+      "lyrics": ""
+    },
+    {
+      "id": 2,
+      "name_category": "DJ Happy Asmara",
+      "title": "ANJAY ANGEL TUTURANMU",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=13UqDbdMGIbu9gUUHcADYrlbeaJKr-C7G",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 3,
+      "name_category": "DJ Happy Asmara",
+      "title": "APAKAH ITU CINTA",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=10twke8nNSCYgTc6ARGT39XblnTO28z_v",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 4,
+      "name_category": "DJ Happy Asmara",
+      "title": "BAHAGIAMU_BAHAGIAKU",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1v_ZR03GdXJ_Q40YTGaEYM1I1ofeP8rpz",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 5,
+      "name_category": "DJ Happy Asmara",
+      "title": "BALE PULANG II",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1eyL2jskKlIaoWZ961OcrhcZRchHyjSsq",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 6,
+      "name_category": "DJ Happy Asmara",
+      "title": "BERHENTI KASIHAN",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1ld4thO5swIhN2wAZhOFiFulgKUQBGl18",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 7,
+      "name_category": "DJ Happy Asmara",
+      "title": "BIAR GENDUT TETAP KU CINTA",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1Fpkd8CjuESuE7Zx4JOdDMRM9WvqZEY95",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 8,
+      "name_category": "DJ Happy Asmara",
+      "title": "BINTANG KEHIDUPAN",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1JMEaF9fGD1StlaMLIhsWax1TP8tzjfag",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 9,
+      "name_category": "DJ Happy Asmara",
+      "title": "BOHOSO MOTO",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1KVKc1F7dAjHR4306w_x_CIsppjKqiRBu",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 10,
+      "name_category": "DJ Happy Asmara",
+      "title": "BOJOMU SEMANGATKU",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1Y8Wjtkpi28JlRY7Ej9bQrtl3oOsVEmC6",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 11,
+      "name_category": "DJ Happy Asmara",
+      "title": "BUNG (TARIK SIS SEMONGKO)",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1qvFg4ZuU7BecPrVcrcS0LK44WjD6zjlK",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 12,
+      "name_category": "DJ Happy Asmara",
+      "title": "CERITO LORO (ATI IKI DUDU DOLANAN)",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=10MwIagRgBvNTS4JCPzT8aPRG3wHDF5ET",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 13,
+      "name_category": "DJ Happy Asmara",
+      "title": "CIDRO 2",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1gXmc5a94EIlvmlYvO4oySBBDMYOr9Ubg",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 14,
+      "name_category": "DJ Happy Asmara",
+      "title": "CINTA NAMA LAIN KITA",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1yk3yQjU84CVTgdyRQwb_pRjqMc7Wxe6-",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 15,
+      "name_category": "DJ Happy Asmara",
+      "title": "CINTAKU TAK TERBATAS WAKTU",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1sL9DqV11GIQusAoQ52y2zlhl3a_rKu1h",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 16,
+      "name_category": "DJ Happy Asmara",
+      "title": "COCOTE TONGGO",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1V7Mc6rx5F61Bojj4wjZBPYAwIEVozrQD",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 17,
+      "name_category": "DJ Happy Asmara",
+      "title": "DALEM SAYANG",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1Mxa6wrVoSxLjDL4J3P6HJMl2XTfdN8vY",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 18,
+      "name_category": "DJ Happy Asmara",
+      "title": "EMAS HANTARAN",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1Qwtk4PcKoJGE5WjuFdhuUP-2aqN7aNHC",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 19,
+      "name_category": "DJ Happy Asmara",
+      "title": "GAUN MERAH",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=12NnQ0-tT_0wdUKTUUeX5Kn8h-fiOu3b3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 20,
+      "name_category": "DJ Happy Asmara",
+      "title": "HAREUDANG",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1RyYgZNQfXbKB04HZwRshoSryKFnHWZix",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 21,
+      "name_category": "DJ Happy Asmara",
+      "title": "JANG GANGGU",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=12AIkYf5a_nt_hEN5-_9cvFz7cgkW_De7",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 22,
+      "name_category": "DJ Happy Asmara",
+      "title": "JANGAN TINGGALKAN AKU",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1NJK0jvmGpUYkCmgocGMORoU67sSWLuyN",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 23,
+      "name_category": "DJ Happy Asmara",
+      "title": "KAMU ADALAH INSPIRASIKU (LAGU UNTUK KAMU)",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1Z1RBKq0QGta3MiWQ9iuD0DHfVdHwgIw5",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 24,
+      "name_category": "DJ Happy Asmara",
+      "title": "KOPI DANGDUT",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1nqawJtJAZLrrcSkDnn1Ut8-L22vy8OOA",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 25,
+      "name_category": "DJ Happy Asmara",
+      "title": "KU PUJA PUJA",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=19XwyQBuAMmyqOparjNbqi6pubg14CRXQ",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 26,
+      "name_category": "DJ Happy Asmara",
+      "title": "LALI RASANE TRESNO",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1Pozh-qFlgDoDNp6JaMKrdmgbvEOrq6jD",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 27,
+      "name_category": "DJ Happy Asmara",
+      "title": "LORO PIKIR",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1EStAXsmOtKazSe9R4Uaptj3uIetJwc0M",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 28,
+      "name_category": "DJ Happy Asmara",
+      "title": "LUKA TAPI RINDU",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1Q5PnnSqnmd6CNgLsbZDkNTlh8XAob68G",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 29,
+      "name_category": "DJ Happy Asmara",
+      "title": "LUNGAMU NINGGAL KENANGAN (GOLEK_LIYANE)",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=198iSVFVnI5JAOESUv4DTA2fhLA0o2sca",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 30,
+      "name_category": "DJ Happy Asmara",
+      "title": "MELEPAS LAJANG",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1Z4IqQsg4hdJD_FPV5yIGKutWppXm4gn_",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 31,
+      "name_category": "DJ Happy Asmara",
+      "title": "MEMANDANGMU",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1BCka9QJ08h0tyOFA10hULS_MqgcjUBE-",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 32,
+      "name_category": "DJ Happy Asmara",
+      "title": "MERINDU",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1QT4e-sPG7XDJra2xjl1ovSa09fUZHYUI",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 33,
+      "name_category": "DJ Happy Asmara",
+      "title": "MUNG SEPELE",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1_gYM2-zQ-jETW111BW_43pfjHUATLAu2",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 34,
+      "name_category": "DJ Happy Asmara",
+      "title": "MUTIOROKU",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1RM37RsxUhbuRZEl38oYxwbSLPsNz7cPS",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 35,
+      "name_category": "DJ Happy Asmara",
+      "title": "NDASKU MUMET NDASMU PIYE",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=169Z_sgTFYV5h9j2NG1QEnwRUBwfCzPow",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 36,
+      "name_category": "DJ Happy Asmara",
+      "title": "NGAWI NAGIH JANJI",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1befCQdHJUD5MR_TjpiJWFjBZiFKVcw-Z",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 37,
+      "name_category": "DJ Happy Asmara",
+      "title": "PERGI HILANG DAN LUPAKAN",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1SpQGAb1edH2MQV1qQnxD1BeML-0vRJql",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 38,
+      "name_category": "DJ Happy Asmara",
+      "title": "PREI LAYANGAN",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1EhbI5ijZBsmEQ3GUeOT6pUCb22X-D8af",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 39,
+      "name_category": "DJ Happy Asmara",
+      "title": "PURNAMA MERINDU",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1yOiidG5ubhUKjP8IW53Uwy-Tk_xUnN1a",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 40,
+      "name_category": "DJ Happy Asmara",
+      "title": "RELA DEMI CINTA",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1_GqOceKx1wW7690C7P2RB643Ou67sfSx",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 41,
+      "name_category": "DJ Happy Asmara",
+      "title": "REMBULAN MALAM",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1gGB2c--e0qqkHMLepsOOEOMZbLsPG5Sq",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 42,
+      "name_category": "DJ Happy Asmara",
+      "title": "SAHABAT",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1MM9qamJwhkKAlsnqrMJ2LkjqxQxALwj1",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 43,
+      "name_category": "DJ Happy Asmara",
+      "title": "SAKIT_GIGI",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1XN0q0GINlooudMWWo3EQP5evRt8-a9EM",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 44,
+      "name_category": "DJ Happy Asmara",
+      "title": "SAMBEL TERASI",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1W_2lAVBERw7U-nxwZzF1a53iFSdOOcH8",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 45,
+      "name_category": "DJ Happy Asmara",
+      "title": "SANTAI AJA CUY",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1HhC1FYTJipiGChw3iDxUoBbl5dlJtd17",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 46,
+      "name_category": "DJ Happy Asmara",
+      "title": "SATU HATI SAMPAI MATI",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1nmgv9qJPhVC27K_eazJOt3C4OT7BuSQe",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 47,
+      "name_category": "DJ Happy Asmara",
+      "title": "SEPARO NYOWO",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=13lcdUy0pZuqwVigGn2lihJ68ekjcemtT",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 48,
+      "name_category": "DJ Happy Asmara",
+      "title": "SEWATES KERJO",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1knkAOq4H00JaiVPPNqeSk5AF2Iwcun33",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 49,
+      "name_category": "DJ Happy Asmara",
+      "title": "SIAPA BENAR SIAPA SALAH",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1EPHozHgScPXgG-pELqn1cTh8BijhyOhh",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 50,
+      "name_category": "DJ Happy Asmara",
+      "title": "SING TAK SAYANG ILANG",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=12DrIApmvLUd_2au6xFoL79ERLX1pw6yt",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 51,
+      "name_category": "DJ Happy Asmara",
+      "title": "SUARA HATIKU",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1-YCAX5oct7zAr2dJoQYvld_rXhhfh8-f",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 52,
+      "name_category": "DJ Happy Asmara",
+      "title": "SUARAMU SYAIRKU",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1VF-eTZu14XcAFfCXpJDldPoZu-OciCSf",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 53,
+      "name_category": "DJ Happy Asmara",
+      "title": "TAK IKHLASNO",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1xUF4cZpVZj2wChRo99LB9F66xxsvqFl9",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 54,
+      "name_category": "DJ Happy Asmara",
+      "title": "TALINING ASMORO",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1jbjPwU6pXOjSSt3AQudr-PbBAhnuApho",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 55,
+      "name_category": "DJ Happy Asmara",
+      "title": "TANPA BATAS WAKTU",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1QpAnMuEyATCi5iFKx_STPMEwQSQxgx6q",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 56,
+      "name_category": "DJ Happy Asmara",
+      "title": "TAPE KETAN",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1beo_E2yTHmvY1hnWkiGeZOKt59rCnSBM",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 57,
+      "name_category": "DJ Happy Asmara",
+      "title": "TATU",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1JIsLIq92QoCMTScLPEpgG-fVqR1b96NH",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 58,
+      "name_category": "DJ Happy Asmara",
+      "title": "TAU TATU",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1n0tRYI7LkfKGNUuTHb5QX038F1IDwkDH",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 59,
+      "name_category": "DJ Happy Asmara",
+      "title": "TURUMU MIRING",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=10It4OT28bVJiMSpbYcjzk-c1bQotMPQ6",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 60,
+      "name_category": "DJ Happy Asmara",
+      "title": "WELAS HANG RING KENE",
+      "image": "file:///android_asset/image/4.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1-lk5qiFHvq3o7vz6QaLkP4h1S_NiBOrV",
+      "lyrics": ""
+    },
+    {
+      "id": 1,
+      "name_category": "DJ Deny Caknan",
+      "title": "DJ AMPUN BANG JAGO",
+      "image": "file:///android_asset/image/6.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1XT7d3I8YnjD8pp-4ObX2zOWtubc48bNn",
+      "lyrics": ""
+    },
+    {
+      "id": 2,
+      "name_category": "DJ Deny Caknan",
+      "title": "DJ_ATIKU_DUDU_WATU",
+      "image": "file:///android_asset/image/6.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1-nOmYxAFZIneyoUa7zgCvA5VJiGG2FXU",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 3,
+      "name_category": "DJ Deny Caknan",
+      "title": "DJ BABY FAMILY FRIENDLY",
+      "image": "file:///android_asset/image/6.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1lEMwdfymqNOCdVs6fQJMJhJYlFw_5Sr5",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 4,
+      "name_category": "DJ Deny Caknan",
+      "title": "DJ BEFORE YOU GO",
+      "image": "file:///android_asset/image/6.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=16oMGRHiINZ5bz2jMFyrYAEyeNkTynwzM",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 5,
+      "name_category": "DJ Deny Caknan",
+      "title": "DJ HARGAI AKU",
+      "image": "file:///android_asset/image/6.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1riX8C3RlMFzdgk_DDU65V-Bu0EtV6_1S",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 6,
+      "name_category": "DJ Deny Caknan",
+      "title": "DJ JUJUR SA SU BILANG",
+      "image": "file:///android_asset/image/6.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1FPTpTt_v3fs5blOHCFY5sBEIeMqv2lCz",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 7,
+      "name_category": "DJ Deny Caknan",
+      "title": "DJ_KOPI_DANGDUT",
+      "image": "file:///android_asset/image/6.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=13NBVFYm84fAhJMnjLkLvmB9bCdGm8qUh",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 8,
+      "name_category": "DJ Deny Caknan",
+      "title": "DJ_KUN_ANTA",
+      "image": "file:///android_asset/image/6.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1d4EnJ6Ul28m0xaTQ75hGmEd0o42N_P8B",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 9,
+      "name_category": "DJ Deny Caknan",
+      "title": "DJ LAYANG DUNGO RESTU",
+      "image": "file:///android_asset/image/6.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=17QXVMf_CeGjPP2DHq-b7my7cuG22sLp4",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 10,
+      "name_category": "DJ Deny Caknan",
+      "title": "DJ NOBODY SEE",
+      "image": "file:///android_asset/image/6.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1jgG8qkBmU4XIVfJnkG9bERasQlzYAtHI",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 11,
+      "name_category": "DJ Deny Caknan",
+      "title": "DJ PISAH",
+      "image": "file:///android_asset/image/6.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1cs250WdyxKfMvng4gnZ2pPfDmCdKpD6L",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 12,
+      "name_category": "DJ Deny Caknan",
+      "title": "DJ_SA_MAU_KOI",
+      "image": "file:///android_asset/image/6.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1gdaWwn09h85I2Zy5pVQ4T2vM-Nt7ZOF1",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 13,
+      "name_category": "DJ Deny Caknan",
+      "title": "DJ SA PAMIT MO PULANG",
+      "image": "file:///android_asset/image/6.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1fQ3cn7aVoiHyt7aj8itcvtCECGVEVXkF",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 14,
+      "name_category": "DJ Deny Caknan",
+      "title": "DJ SATRU",
+      "image": "file:///android_asset/image/6.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1C4TwjE8Z_Ave3BtbfyrVWehFSPPaPQ7O",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 15,
+      "name_category": "DJ Deny Caknan",
+      "title": "DJ SAYANGMU KARO KONO",
+      "image": "file:///android_asset/image/6.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1SEu9Zs7brPLebx8hdPPNobld3oobWE-X",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 16,
+      "name_category": "DJ Deny Caknan",
+      "title": "DJ SIT STILL LOOK PRETTY",
+      "image": "file:///android_asset/image/6.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1QFDk1kLlKOI4pjMKAes2gaHpWXoVEE-k",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 17,
+      "name_category": "DJ Deny Caknan",
+      "title": "DJ TAK MILEH DEWE",
+      "image": "file:///android_asset/image/6.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=10J_E-BokbnsGalxdpdGoG8xYnXgRbWSK",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 18,
+      "name_category": "DJ Deny Caknan",
+      "title": "DJ TUMAREDANG SLOW",
+      "image": "file:///android_asset/image/6.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1z25ZqTT_PY9EWzArRDVwJLOiKJKmwJwF",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 19,
+      "name_category": "DJ Deny Caknan",
+      "title": "DJ TURUN NAIK SLOW",
+      "image": "file:///android_asset/image/6.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1gNbCnzmZv_K1hN5hHJfWtM5OabuXYmcu",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 20,
+      "name_category": "DJ Deny Caknan",
+      "title": "DJ WELUT KA WELUT",
+      "image": "file:///android_asset/image/6.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1-go-KWJ4juoTrB9mPbontPAujKWw1UOH",
+      "lyrics": ""
+    },
+    {
+      "id": 1,
+      "name_category": "DJ Malaysia",
+      "title": "ADAKAH KAU SETIA DJ TIKTOK",
+      "image": "file:///android_asset/image/5.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1a5GqD15WRnq5knLwnLVvD4srlY10GiBg",
+      "lyrics": ""
+    },
+    {
+      "id": 2,
+      "name_category": "DJ Malaysia",
+      "title": "AIR MATA DI HARI PERSANDINGANMU DJ TIKTOK",
+      "image": "file:///android_asset/image/5.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1gCSCPJtxf9H3gsatCPhgrdcm2WpxkPRp",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 3,
+      "name_category": "DJ Malaysia",
+      "title": "BERBEZA KASTA DJ FULL BASS",
+      "image": "file:///android_asset/image/5.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1jBj1ToZ6uV3GhQ1OhsLN3lX1nx0h0MPH",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 4,
+      "name_category": "DJ Malaysia",
+      "title": "BERBEZA KASTA DJ TIKTOK",
+      "image": "file:///android_asset/image/5.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1HR6xvdj8UiiAdplneJAAM7UGvtCD08bk",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 5,
+      "name_category": "DJ Malaysia",
+      "title": "BUIH JADI PERMADANI DJ TIKTOK",
+      "image": "file:///android_asset/image/5.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1x1S03r62tsLIdAFRj-G5AVwUa_tnSIQI",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 6,
+      "name_category": "DJ Malaysia",
+      "title": "BUKAN AKU TAK CINTA DJ TIKTOK",
+      "image": "file:///android_asset/image/5.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1D6YUNo9Mu3ANcHA_6-Cj9zFI_wXufNfe",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 7,
+      "name_category": "DJ Malaysia",
+      "title": "BUKAN_CINTA_BIASA_DJ_TIKTOK",
+      "image": "file:///android_asset/image/5.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1IFFXY289eVU3gWOAZ04cj_vfjJYxMc8x",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 8,
+      "name_category": "DJ Malaysia",
+      "title": "BUNGA DJ FULL BASS",
+      "image": "file:///android_asset/image/5.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1G-OYebVUrB3wSCXoEBOIG9BwcSw2e2Th",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 9,
+      "name_category": "DJ Malaysia",
+      "title": "BUNGA DJ TIKTOK",
+      "image": "file:///android_asset/image/5.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1JGbdrvoXssZiSrhRsltRisbCbq60E-k9",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 10,
+      "name_category": "DJ Malaysia",
+      "title": "CINTA KITA DJ TIKTOK",
+      "image": "file:///android_asset/image/5.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1H5vg-hkQ_fK_Lp8MU1_ZZC5A4sEV9TW1",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 11,
+      "name_category": "DJ Malaysia",
+      "title": "DERMAGA BIRU DJ FULL BASS",
+      "image": "file:///android_asset/image/5.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1Ro5qX4X_Zjb_5XrV3IL5WxusH_uee6VY",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 12,
+      "name_category": "DJ Malaysia",
+      "title": "DERMAGA BIRU DJ TIKTOK",
+      "image": "file:///android_asset/image/5.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1CUiME58-zzljw5chZgOeEbL8ZLo0t0Uy",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 13,
+      "name_category": "DJ Malaysia",
+      "title": "DISANA MENANTI DISINI MENUNGGU DJ TIKTOK",
+      "image": "file:///android_asset/image/5.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=13H0qnfH-yJgf_9ePI_JQf_FbCxJGu8O2",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 14,
+      "name_category": "DJ Malaysia",
+      "title": "GERIMIS MENGUNDANG DJ FULL BASS",
+      "image": "file:///android_asset/image/5.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1RT5qJzwChJbxaLdYJb5tGuoAS81sN9lK",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 15,
+      "name_category": "DJ Malaysia",
+      "title": "GERIMIS MENGUNDANG DJ TIKTOK",
+      "image": "file:///android_asset/image/5.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1xgpjAWM5WatULEofxp0AliN4QrUFYcjs",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 16,
+      "name_category": "DJ Malaysia",
+      "title": "GURAUAN_BERKASIH_DJ_TIKTOK",
+      "image": "file:///android_asset/image/5.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1YGoNsES6T0Cyp25V0pKFLQMRat3Z8ree",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 17,
+      "name_category": "DJ Malaysia",
+      "title": "HAKIKAT SEBUAH CINTA DJ TIKTOK",
+      "image": "file:///android_asset/image/5.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1QLJKIi1bDgUK2MfQUqNIGgNgdXAFQqU8",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 18,
+      "name_category": "DJ Malaysia",
+      "title": "ISABELLA DJ TIKTOK",
+      "image": "file:///android_asset/image/5.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1FDBeQP7W2pP1-g2Y09UUL_VlLZvivf8b",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 19,
+      "name_category": "DJ Malaysia",
+      "title": "MEMORI BERKASIH DJ TIKTOK",
+      "image": "file:///android_asset/image/5.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1jfzO8YrfUexIaf9P-G3zOndIj8XuHIbl",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 20,
+      "name_category": "DJ Malaysia",
+      "title": "MENCARI ALASAN DJ FULL BASS",
+      "image": "file:///android_asset/image/5.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1VRInMX7n96AMqOjDE79Jp8_km_Ics17a",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 21,
+      "name_category": "DJ Malaysia",
+      "title": "MENCARI ALASAN DJ TIKTOK",
+      "image": "file:///android_asset/image/5.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1gWOMu6vdsw-tI7OZGmTpjQrD7-D72jkt",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 22,
+      "name_category": "DJ Malaysia",
+      "title": "PURNAMA MERINDU DJ FULL BASS",
+      "image": "file:///android_asset/image/5.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1vcColwwvpjapK-pzH75y2X7rt4UNceDs",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 23,
+      "name_category": "DJ Malaysia",
+      "title": "PURNAMA MERINDU DJ TIKTOK",
+      "image": "file:///android_asset/image/5.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1MOSTpZdWwx7df8aOXeFQgZz8xk1K50rk",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 24,
+      "name_category": "DJ Malaysia",
+      "title": "PUTERI (IKLIM) DJ TIKTOK",
+      "image": "file:///android_asset/image/5.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1C8IMXw8iCAiGcRh1enOo7-vW7680tVq7",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 25,
+      "name_category": "DJ Malaysia",
+      "title": "RELA DEMI CINTA DJ TIKTOK",
+      "image": "file:///android_asset/image/5.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=18npa3kgcFpHRwJ_28AceMbVci35OmnO7",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 26,
+      "name_category": "DJ Malaysia",
+      "title": "RELA DJ TIKTOK",
+      "image": "file:///android_asset/image/5.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1qlCvH8vFagXY0FpBax55bqmCxMqygBzt",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 27,
+      "name_category": "DJ Malaysia",
+      "title": "RINDIANI DJ TIKTOK",
+      "image": "file:///android_asset/image/5.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1iXD0KkZgK2Dp5mTPuoUaOkWpjRZoyPf8",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 28,
+      "name_category": "DJ Malaysia",
+      "title": "RINDU_SERINDU_RINDUNYA_DJ_FULL_BASS",
+      "image": "file:///android_asset/image/5.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1ZGRnAQTijpNUhjynjYugLapnz_Pxb6_j",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 29,
+      "name_category": "DJ Malaysia",
+      "title": "RINDU_SERINDU_RINDUNYA_DJ_SLOW",
+      "image": "file:///android_asset/image/5.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1i7HZfROF6zVV6pZj0wp8GpJk0WQe8NAd",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 30,
+      "name_category": "DJ Malaysia",
+      "title": "RINDU SERINDU RINDUNYA DJ TIKTOK",
+      "image": "file:///android_asset/image/5.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1rxqaGYXhlqxA-vebrXswUgWQ6PyHphT7",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 31,
+      "name_category": "DJ Malaysia",
+      "title": "SATU HATI SAMPAI MATI DJ TIKTOK",
+      "image": "file:///android_asset/image/5.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1gXOMSXh1WwHmdkZcMntU6WYJw9PPpZPD",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 32,
+      "name_category": "DJ Malaysia",
+      "title": "SATU NAMA TETAP DI HATI DJ TIKTOK",
+      "image": "file:///android_asset/image/5.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1hQ_Z0OWQ-I0V3nCQ7CwzJlxiTnTeFl9p",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 33,
+      "name_category": "DJ Malaysia",
+      "title": "SELAMAT TINGGAL PENDERITAAN (IKLIM) DJ TIKTOK",
+      "image": "file:///android_asset/image/5.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=13RSTW7NarftNu7RkkGQ-wIpHrtF3f1D9",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 34,
+      "name_category": "DJ Malaysia",
+      "title": "SEMBILU DJ FULL BASS",
+      "image": "file:///android_asset/image/5.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1Ql9EmbUcmajcAASYkRuGZU-mG4c-7dfA",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 35,
+      "name_category": "DJ Malaysia",
+      "title": "SEMBILU DJ TIKTOK",
+      "image": "file:///android_asset/image/5.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1wmSHzCe3IyBQtYuqY_vRObbme5JbY2vg",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 36,
+      "name_category": "DJ Malaysia",
+      "title": "SONIA KAU SEBUT NAMAKU DJ TIKTOK",
+      "image": "file:///android_asset/image/5.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=14nMl3ovL9UVzhJXn-kZufW6inngdZUle",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 37,
+      "name_category": "DJ Malaysia",
+      "title": "SUCI DALAM DEBU DJ FULL BASS",
+      "image": "file:///android_asset/image/5.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1l--vRkmwF-6-0Wr8mvl_sxI8OVDD1VKP",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 38,
+      "name_category": "DJ Malaysia",
+      "title": "SUCI DALAM DEBU DJ TIKTOK",
+      "image": "file:///android_asset/image/5.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1xlM_Zyeol5zb-FrCZijPIX5nxjUvfFNg",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 39,
+      "name_category": "DJ Malaysia",
+      "title": "TENDA BIRU DJ TIKTOK",
+      "image": "file:///android_asset/image/5.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1SZW2Pq14_vKGgvi-djoK6Bc_IxwrYywk",
+      "lyrics": ""
+    },
+    {
+      "id": 1,
+      "name_category": "DJ Tembang Kenangan",
+      "title": "NIKE ARDILLA & FRIENDS (ANTARA BENCI DAN RINDU DJ REMIX FULL BASS)",
+      "image": "file:///android_asset/image/7.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1cRAtSxA8FXbMFPb8lbf5y_3KNAxjWjq7",
+      "lyrics": ""
+    },
+    {
+      "id": 2,
+      "name_category": "DJ Tembang Kenangan",
+      "title": "NIKE ARDILLA & FRIENDS (BINTANG KEHIDUPAN DJ REMIX FULL BASS)",
+      "image": "file:///android_asset/image/7.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1EHuUskkZOiUSHa39C1dP2eS78xQeb8L1",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 3,
+      "name_category": "DJ Tembang Kenangan",
+      "title": "NIKE ARDILLA & FRIENDS (CINTA KITA DJ REMIX FULL BASS)",
+      "image": "file:///android_asset/image/7.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1CIV2Bj0tjOXXFMDtRhGwMRbNsUeRfxfl",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 4,
+      "name_category": "DJ Tembang Kenangan",
+      "title": "NIKE ARDILLA & FRIENDS (DURI TERLINDUNG DJ REMIX FULL BASS)",
+      "image": "file:///android_asset/image/7.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1t9VuatORA3hAbPH5Lx-c96cKfZU0jy2b",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 5,
+      "name_category": "DJ Tembang Kenangan",
+      "title": "NIKE ARDILLA & FRIENDS (HANYA KAU DI HATIKU DJ REMIX FULL BASS)",
+      "image": "file:///android_asset/image/7.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1iVrx-u7i3H-2SV0LGFyRQV2mX9esEBJp",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 6,
+      "name_category": "DJ Tembang Kenangan",
+      "title": "NIKE ARDILLA & FRIENDS (HATI YANG KECEWA DJ REMIX FULL BASS)",
+      "image": "file:///android_asset/image/7.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1JFMudc2KLFWaX6t8h_ohEXLsDwlLdIx9",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 7,
+      "name_category": "DJ Tembang Kenangan",
+      "title": "NIKE ARDILLA & FRIENDS (HILANGNYA SEORANG GADIS DJ REMIX FULL BASS)",
+      "image": "file:///android_asset/image/7.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1l9C6S1QsIAl_L1rXnUK5CMdiWo_wVNHh",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 8,
+      "name_category": "DJ Tembang Kenangan",
+      "title": "NIKE ARDILLA & FRIENDS (JANGAN PISAHKAN DJ REMIX FULL BASS)",
+      "image": "file:///android_asset/image/7.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1U83sLCftStx04OKVfG_PbSXfXtc3zmTF",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 9,
+      "name_category": "DJ Tembang Kenangan",
+      "title": "NIKE ARDILLA & FRIENDS (KAU TERCIPTA BUKAN UNTUKKU DJ REMIX FULL BASS)",
+      "image": "file:///android_asset/image/7.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1F5Aqkzs421-q2TJES0oVPgqE__CTof6Q",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 10,
+      "name_category": "DJ Tembang Kenangan",
+      "title": "NIKE ARDILLA & FRIENDS (KU TAK AKAN BERSUARA DJ REMIX FULL BASS)",
+      "image": "file:///android_asset/image/7.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=16_BC42Jd_dqzJjDv6Zqme3LdEfUnbDme",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 11,
+      "name_category": "DJ Tembang Kenangan",
+      "title": "NIKE ARDILLA & FRIENDS (MAMA AKU INGIN PULANG DJ REMIX FULL BASS)",
+      "image": "file:///android_asset/image/7.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1RY44oCmUnddpWb2hXt6ZRI-154qie7bv",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 12,
+      "name_category": "DJ Tembang Kenangan",
+      "title": "NIKE ARDILLA & FRIENDS (MENDUNG TAK BERARTI HUJAN DJ REMIX FULL BASS)",
+      "image": "file:///android_asset/image/7.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1PT2C-T9OK3xPJmWISnSsHFMdvo0YaywA",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 13,
+      "name_category": "DJ Tembang Kenangan",
+      "title": "NIKE ARDILLA & FRIENDS (NYALAKAN API DJ REMIX FULL BASS)",
+      "image": "file:///android_asset/image/7.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1tLRnq0ne0LMDT2FaJVbXjNzn1RnLl4fC",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 14,
+      "name_category": "DJ Tembang Kenangan",
+      "title": "NIKE ARDILLA & FRIENDS (RELA DJ REMIX FULL BASS)",
+      "image": "file:///android_asset/image/7.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1dw_pwlRxs-8hag7AkFqpYOjNWY6_Ly0p",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 15,
+      "name_category": "DJ Tembang Kenangan",
+      "title": "NIKE ARDILLA & FRIENDS (SANDIWARA CINTA DJ REMIX FULL BASS)",
+      "image": "file:///android_asset/image/7.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1DrDRprTfxrMl_gLSpS7hgaJUu-telIJO",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 16,
+      "name_category": "DJ Tembang Kenangan",
+      "title": "NIKE ARDILLA & FRIENDS (SEBERKAS SINAR DJ REMIX FULL BASS)",
+      "image": "file:///android_asset/image/7.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1OzZPmMuDUzA1Qy5Xjhfgf74JOKi4ABna",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 17,
+      "name_category": "DJ Tembang Kenangan",
+      "title": "NIKE ARDILLA & FRIENDS (TENDA BIRU DJ REMIX FULL BASS)",
+      "image": "file:///android_asset/image/7.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1RwVgabLAEiEY0B7W6Ox3_XPxYKtrvmlm",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 18,
+      "name_category": "DJ Tembang Kenangan",
+      "title": "NIKE ARDILLA & FRIENDS (TINGGALLAH KU SENDIRI DJ REMIX FULL BASS)",
+      "image": "file:///android_asset/image/7.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1hg7DEiDc8iS8nIX8oD0xdf-8XKbA6wUK",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 19,
+      "name_category": "DJ Tembang Kenangan",
+      "title": "NIKE ARDILLA & FRIENDS (UNTUK APA LAGI DJ REMIX FULL BASS)",
+      "image": "file:///android_asset/image/7.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1V_GHchjlDJcxCkSYXdp0NNoWZ2v7rgBy",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 20,
+      "name_category": "DJ Tembang Kenangan",
+      "title": "POPPY MERCURY & FRIENDS (ANTARA JAKARTA DAN PENANG DJ REMIX FULL BASS)",
+      "image": "file:///android_asset/image/7.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=18zERuqnWsQewMTirHpGTSQkSQVfvmEFt",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 21,
+      "name_category": "DJ Tembang Kenangan",
+      "title": "POPPY MERCURY & FRIENDS (ANTARA KAU DIA DAN AKU DJ REMIX FULL BASS)",
+      "image": "file:///android_asset/image/7.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1Bc9sdFBYSVZCdQRl3flEMqVJrChsrauL",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 22,
+      "name_category": "DJ Tembang Kenangan",
+      "title": "POPPY MERCURY & FRIENDS (BADAI ASMARA DJ REMIX FULL BASS)",
+      "image": "file:///android_asset/image/7.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1jqzdT-dD_oSoO8Zwpe349ahBbLhJH0mh",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 23,
+      "name_category": "DJ Tembang Kenangan",
+      "title": "POPPY MERCURY & FRIENDS (CINTAKU TAK TERBATAS WAKTU DJ REMIX FULL BASS)",
+      "image": "file:///android_asset/image/7.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1CkweQhsNM8HMTueaFjF2-XYhHwIKtSpl",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 24,
+      "name_category": "DJ Tembang Kenangan",
+      "title": "POPPY MERCURY & FRIENDS (CINTAKU TAKKAN BERUBAH DJ REMIX FULL BASS)",
+      "image": "file:///android_asset/image/7.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1N5lsR-2_Go6PE0H6UjW4ZVs8wh0taM2E",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 25,
+      "name_category": "DJ Tembang Kenangan",
+      "title": "POPPY MERCURY & FRIENDS (DI SINI DI BATAS KOTA INI DJ REMIX FULL BASS)",
+      "image": "file:///android_asset/image/7.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1huyUmQhgSQgGG0rY5x23wOGkrtN8Y6hP",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 26,
+      "name_category": "DJ Tembang Kenangan",
+      "title": "POPPY MERCURY & FRIENDS (HATI SIAPA TAK TERLUKA DJ REMIX FULL BASS)",
+      "image": "file:///android_asset/image/7.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1IXpLO4xwJa0RBSyJNzDMb_fxMnOq9-OM",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 27,
+      "name_category": "DJ Tembang Kenangan",
+      "title": "POPPY MERCURY & FRIENDS (HATI YANG LUKA DJ REMIX FULL BASS)",
+      "image": "file:///android_asset/image/7.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1GBxQvMExRaxSGcPHUReZ9ZKOI9b1goBU",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 28,
+      "name_category": "DJ Tembang Kenangan",
+      "title": "POPPY MERCURY & FRIENDS (KISAH KASIH DI SEKOLAH DJ REMIX FULL BASS)",
+      "image": "file:///android_asset/image/7.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1FFrJ-uP4qszYTDO2an3teE1jd3uhcplw",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 29,
+      "name_category": "DJ Tembang Kenangan",
+      "title": "POPPY MERCURY & FRIENDS (MOBIL DAN BENSIN DJ REMIX FULL BASS)",
+      "image": "file:///android_asset/image/7.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1bz6v4TuL5RUN0G2bi6c2HW8yHeAASOFZ",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 30,
+      "name_category": "DJ Tembang Kenangan",
+      "title": "POPPY MERCURY & FRIENDS (PERGILAH KASIH DJ REMIX FULL BASS)",
+      "image": "file:///android_asset/image/7.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1t91xgsQp3Vc66pTk2djC1m_BCjjE4PI-",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 31,
+      "name_category": "DJ Tembang Kenangan",
+      "title": "POPPY MERCURY & FRIENDS (RINDU AKU RINDU KAMU DJ REMIX FULL BASS)",
+      "image": "file:///android_asset/image/7.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1ZmCUewewUS4xh7XtfRZ1x0rxcjf-IyaE",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 32,
+      "name_category": "DJ Tembang Kenangan",
+      "title": "POPPY MERCURY & FRIENDS (SAKIT GIGI DJ REMIX FULL BASS)",
+      "image": "file:///android_asset/image/7.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1Zci011xFJLVdrupsv-zCLOUYA2p7KTLW",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 33,
+      "name_category": "DJ Tembang Kenangan",
+      "title": "POPPY MERCURY & FRIENDS (SURAT UNDANGAN DJ REMIX FULL BASS)",
+      "image": "file:///android_asset/image/7.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1sMu2uciumELrILY_BtZ5qv7AuoApSNne",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 34,
+      "name_category": "DJ Tembang Kenangan",
+      "title": "POPPY MERCURY & FRIENDS (SURAT UNTUK KEKASIH DJ REMIX FULL BASS)",
+      "image": "file:///android_asset/image/7.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1R6DxphdeFgI1UIE9ifQdStVhGvg-lgoc",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 35,
+      "name_category": "DJ Tembang Kenangan",
+      "title": "POPPY MERCURY & FRIENDS (TERLAMBAT SUDAH DJ REMIX FULL BASS)",
+      "image": "file:///android_asset/image/7.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1P9F2n9jgcZ-FYFY29Rj7NDbHLVv9HHkn",
+      "lyrics": ""
+    }
+
+
   ]
 }
